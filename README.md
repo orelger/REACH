@@ -5,11 +5,13 @@ My final project in Software Engineering course at my college(HIT), second year.
 
 In this project you can see the MODEL VIEW CONTROL (MVC) architectural pattern and
 
-some of  design patterns like:
+2 design patterns:
 
 - Factory Method
   
 - Singelton
+
+
 
 
 ## WIKI

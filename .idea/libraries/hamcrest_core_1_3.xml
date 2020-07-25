@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="hamcrest-core-1.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../junit-4.13.jar!/" />
+      <root url="file://$PROJECT_DIR$/.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../REACH Project/out/production/REACH Project/main/java/reach" />
+      <root url="file://$PROJECT_DIR$/../REACH Project/out/production/REACH Project/main/java/reach/model" />
+      <root url="file://$PROJECT_DIR$/../REACH Project/src/main/java/reach" />
+      <root url="file://$PROJECT_DIR$/../REACH Project/src/main/java/reach/model" />
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/.." recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/.." recursive="false" type="SOURCES" />
+  </library>
+</component>

@@ -12,7 +12,7 @@ some of  design patterns like:
 - Singelton
 
 
-### WIKI
+## WIKI
 
 [wiki home page](https://github.com/orelger/REACH/wiki)
 

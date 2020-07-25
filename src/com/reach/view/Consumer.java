@@ -22,7 +22,7 @@ public class Consumer extends JFrame implements View{
         setLayout(null);
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         //Font
-        Font david12 = new Font("forget a password", Font.BOLD, 12);
+        Font david12 = new Font("forget a password", Font.BOLD, 9);
 
         //labels and buttons
         JLabel contractor = new JLabel("Hello "+username);

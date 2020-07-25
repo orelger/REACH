@@ -12,3 +12,8 @@ some of  design patterns like:
 - Singelton
 
 
+### WIKI
+
+[wiki home page](https://github.com/orelger/REACH/wiki)
+
+
